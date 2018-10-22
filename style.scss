@@ -1,0 +1,13 @@
+---
+---
+$body-padding: 15px;
+$body-color: blue;
+body {
+  padding: $body-padding;
+  color: $body-color;
+}
+
+/* Selector examples */
+.class {}
+#id {}
+[attribute] {}
